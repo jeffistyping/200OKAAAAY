@@ -6,6 +6,9 @@ All over 2xx - YEAHH
 3xx - WHAT'S HAPPENING? 
 400 - WHAT!!
 500 - WHAATT?? 
+
+
+
                                             ▄▓███▓▓▓▓▓▓Æ╗╓
                                            ╫███████████▓▓▓▓╬▓╖
                                            └████████████▓▓▓▓▓██▄
