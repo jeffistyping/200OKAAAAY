@@ -10,6 +10,8 @@ def status(r) -> None:
 		playsound('ok.mp3',block=False)
 	elif r >= 200 and r < 300:
 		playsound('yeah.mp3',block=False)
+	elif r >= 300 and r < 400:
+		playsound('whatshappening.mp3')
 	elif r >= 400 and r < 500:
 		playsound('what.mp3',block=False)
 	elif r >= 500:

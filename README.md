@@ -1,4 +1,11 @@
+# What does this do? 
+This is a wrapper around the requests library to make lil jon announce your API responses using one of his famous adlibs
 
+200 - OKAYYYYYY
+All over 2xx - YEAHH
+3xx - WHAT'S HAPPENING? 
+400 - WHAT!!
+500 - WHAATT?? 
                                             ▄▓███▓▓▓▓▓▓Æ╗╓
                                            ╫███████████▓▓▓▓╬▓╖
                                            └████████████▓▓▓▓▓██▄
