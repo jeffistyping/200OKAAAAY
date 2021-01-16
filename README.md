@@ -5,9 +5,16 @@ This is a wrapper around the requests library to make lil jon announce your API 
 All over 2xx - YEAHH
 3xx - WHAT'S HAPPENING? 
 400 - WHAT!!
-500 - WHAATT?? 
+500 - WHAATT??
 
+# Did you make this because of a stupid tech twitter joke? 
+[YEAAAAHHH](https://twitter.com/jeffistyping/status/1347685819876831233?s=20)
 
+# Can you actually use this to make API calls?
+YEAAAAHHH
+
+# Should actually use this to make API calls? 
+no
 
                                             ▄▓███▓▓▓▓▓▓Æ╗╓
                                            ╫███████████▓▓▓▓╬▓╖
@@ -39,3 +46,4 @@ All over 2xx - YEAHH
         Æ███████████████████████████▓█ ¬╩█╬╣████████▀╙╜ τ▓█████████▓██████████▓
        ┌██████████████▓███████████▓█▓█ "╚╟██████▓╬╬▄▄▀ »▐██████████▓████████████▄
        ║██████▓█████████████████████▓█ , ┘▓█████████▀  ╓█████████████████████████▄
+lil jon is short for lilliputian jongleur
